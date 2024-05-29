@@ -1,5 +1,7 @@
 # Hello, I'm Thiago 👋
 
+[![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiagosanbat@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-santana-batista-922035123)
+
 I'm a full-stack developer with more than thirteen years of experience in the industry, always trying to evolve and deliver the best to the companies I work for.
 My main back-end skills are: Java, Node.js and C# and on front-end I have experience with ReactJS, Redux, Zustand, GraphQL, always building automated tests on both ends.
 
